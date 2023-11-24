@@ -11,9 +11,9 @@ This is a simple calculator built using HTML, CSS, and JavaScript. It allows use
 
 ## Demo
 
-![calculator]
+![calculator]()
 ## Live Demo
-link: ()
+link: (https://github.com/Anshuman0024/Codsoft_Level-1_Task3/blob/main/Calculator.html)
 
 ## How to use
 
